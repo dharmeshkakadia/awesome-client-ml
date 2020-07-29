@@ -10,6 +10,7 @@ Share your Mesos ❤️ through pull requests :)
 * [TensorFlow Lite](https://www.tensorflow.org/lite) - inference only. [Whats the difference between Tensorflow js & Tensorflow Lite?](https://stackoverflow.com/questions/59860397/tensorflow-js-vs-tensorflow-lite)
 * [CoreML](https://developer.apple.com/documentation/coreml)
 * [ONNX.js](https://github.com/Microsoft/onnxjs)
+* [ml5js - Friendly machine learning for the web](https://github.com/ml5js/ml5-library)
 * [ml.js](https://github.com/mljs/ml)
 * [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
 
