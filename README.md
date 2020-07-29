@@ -14,6 +14,10 @@ Share your ❤️ through pull requests :)
 * [ml.js](https://github.com/mljs/ml)
 * [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
 
+## Utilities
+
+* [PyTorch or TensorFlow 2.0 trained Transformer models -> CoreML](https://github.com/huggingface/swift-coreml-transformers)
+
 ## Applications
 
 ### Natural Langauge
