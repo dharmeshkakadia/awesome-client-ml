@@ -21,3 +21,7 @@ Share your Mesos ❤️ through pull requests :)
 ## Hardware
 
 * [Coral](https://coral.ai/)
+
+## Demos
+
+* [Project Naptha - highlight, copy, and translate text from any image](https://projectnaptha.com/)
