@@ -13,6 +13,11 @@ Share your Mesos ❤️ through pull requests :)
 * [ml.js](https://github.com/mljs/ml)
 * [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
 
+## Applications
+
+### Natural Langauge
+* [tesseract.js - Pure Javascript OCR for more than 100 Languages](https://github.com/naptha/tesseract.js)
+
 ## Hardware
 
 * [Coral](https://coral.ai/)
