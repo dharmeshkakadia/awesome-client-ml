@@ -11,6 +11,7 @@ Share your Mesos ❤️ through pull requests :)
 * [CoreML](https://developer.apple.com/documentation/coreml)
 * [ONNX.js](https://github.com/Microsoft/onnxjs)
 * [ml.js](https://github.com/mljs/ml)
+* [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
 
 ## Hardware
 
