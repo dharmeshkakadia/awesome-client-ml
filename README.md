@@ -20,7 +20,7 @@ Share your ❤️ through pull requests :)
 
 ## Best Practices
 
-* [TensorFlow CoreML_Delegate](https://www.tensorflow.org/lite/performance/coreml_delegate#best_practices)
+* [TensorFlow lite](https://www.tensorflow.org/lite/performance/best_practices)
 
 ## Applications
 
