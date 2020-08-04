@@ -18,6 +18,10 @@ Share your ❤️ through pull requests :)
 
 * [PyTorch or TensorFlow 2.0 trained Transformer models -> CoreML](https://github.com/huggingface/swift-coreml-transformers)
 
+## Best Practices
+
+* [TensorFlow CoreML_Delegate](https://www.tensorflow.org/lite/performance/coreml_delegate#best_practices)
+
 ## Applications
 
 ### Natural Langauge
