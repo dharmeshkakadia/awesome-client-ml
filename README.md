@@ -16,6 +16,7 @@ Share your ❤️ through pull requests :)
 
 ## Utilities
 
+* [Apple Core ML Tools](https://github.com/apple/coremltools)
 * [PyTorch or TensorFlow 2.0 trained Transformer models -> CoreML](https://github.com/huggingface/swift-coreml-transformers)
 
 ## Best Practices
