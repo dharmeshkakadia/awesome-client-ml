@@ -13,6 +13,7 @@ Share your ❤️ through pull requests :)
 * [ml5js - Friendly machine learning for the web](https://github.com/ml5js/ml5-library)
 * [ml.js](https://github.com/mljs/ml)
 * [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
+* [Android Neural Networks API](https://developer.android.com/ndk/guides/neuralnetworks/)
 
 ## Utilities
 
