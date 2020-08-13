@@ -39,3 +39,8 @@ Share your ❤️ through pull requests :)
 ## Demos
 
 * [Project Naptha - highlight, copy, and translate text from any image](https://projectnaptha.com/)
+
+
+## Unsorted
+
+* [Synapses - A lightweight library for neural networks that runs anywhere](https://github.com/mrdimosthenis/Synapses)
