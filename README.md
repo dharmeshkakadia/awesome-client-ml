@@ -13,6 +13,7 @@ Share your ❤️ through pull requests :)
 * [ml5js - Friendly machine learning for the web](https://github.com/ml5js/ml5-library)
 * [ml.js](https://github.com/mljs/ml)
 * [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
+* [neurojs - JavaScript framework for deep learning in the browse](https://github.com/janhuenermann/neurojs)
 
 ## Utilities
 
