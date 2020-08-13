@@ -32,6 +32,7 @@ Share your ❤️ through pull requests :)
 ## Low level API
 
 * [Android Neural Networks API](https://developer.android.com/ndk/guides/neuralnetworks/)
+* [stdlib](https://github.com/stdlib-js/stdlib)
 
 ## Applications
 
