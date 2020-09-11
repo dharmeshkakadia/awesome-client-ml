@@ -3,7 +3,7 @@ Everything about Client side Machine Learning
 
 Share your ❤️ through pull requests :)
 
-[test](http://test.in)
+[test2](http://test.in)
 
 ## Frameworks
 
