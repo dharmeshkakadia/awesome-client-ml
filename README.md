@@ -3,8 +3,6 @@ Everything about Client side Machine Learning
 
 Share your ❤️ through pull requests :)
 
-[test](http://test.in)
-
 ## Frameworks
 
 * [TensorFlow JS](https://www.tensorflow.org/js/)
