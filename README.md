@@ -15,6 +15,7 @@ Share your ❤️ through pull requests :)
 * [brain.js - 🤖 Neural networks in JavaScript](https://github.com/BrainJS/brain.js)
 * [neurojs - JavaScript framework for deep learning in the browse](https://github.com/janhuenermann/neurojs)
 * [webdnn - The Fastest DNN Running Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
+* [shumai - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight](https://github.com/facebookresearch/shumai)
 
 ## Utilities
 
